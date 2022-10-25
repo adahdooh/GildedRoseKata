@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Submission\\GildedRoseKataClient\\GildedRoseKataClient.csproj": {}
+  },
+  "projects": {
+    "D:\\Submission\\GildedRoseKataBusiness\\GildedRoseKataBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Submission\\GildedRoseKataBusiness\\GildedRoseKataBusiness.csproj",
+        "projectName": "GildedRoseKataBusiness",
+        "projectPath": "D:\\Submission\\GildedRoseKataBusiness\\GildedRoseKataBusiness.csproj",
+        "packagesPath": "C:\\Users\\akmal.eldahdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Submission\\GildedRoseKataBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akmal.eldahdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Submission\\GildedRoseKataModels\\GildedRoseKataModels.csproj": {
+                "projectPath": "D:\\Submission\\GildedRoseKataModels\\GildedRoseKataModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Submission\\GildedRoseKataClient\\GildedRoseKataClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Submission\\GildedRoseKataClient\\GildedRoseKataClient.csproj",
+        "projectName": "GildedRoseKataClient",
+        "projectPath": "D:\\Submission\\GildedRoseKataClient\\GildedRoseKataClient.csproj",
+        "packagesPath": "C:\\Users\\akmal.eldahdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Submission\\GildedRoseKataClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akmal.eldahdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Submission\\GildedRoseKataBusiness\\GildedRoseKataBusiness.csproj": {
+                "projectPath": "D:\\Submission\\GildedRoseKataBusiness\\GildedRoseKataBusiness.csproj"
+              },
+              "D:\\Submission\\GildedRoseKataModels\\GildedRoseKataModels.csproj": {
+                "projectPath": "D:\\Submission\\GildedRoseKataModels\\GildedRoseKataModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Submission\\GildedRoseKataModels\\GildedRoseKataModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Submission\\GildedRoseKataModels\\GildedRoseKataModels.csproj",
+        "projectName": "GildedRoseKataModels",
+        "projectPath": "D:\\Submission\\GildedRoseKataModels\\GildedRoseKataModels.csproj",
+        "packagesPath": "C:\\Users\\akmal.eldahdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Submission\\GildedRoseKataModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akmal.eldahdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GildedRoseKataClient/1.0.0": {
+        "dependencies": {
+          "GildedRoseKataBusiness": "1.0.0",
+          "GildedRoseKataModels": "1.0.0"
+        },
+        "runtime": {
+          "GildedRoseKataClient.dll": {}
+        }
+      },
+      "GildedRoseKataBusiness/1.0.0": {
+        "dependencies": {
+          "GildedRoseKataModels": "1.0.0"
+        },
+        "runtime": {
+          "GildedRoseKataBusiness.dll": {}
+        }
+      },
+      "GildedRoseKataModels/1.0.0": {
+        "runtime": {
+          "GildedRoseKataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GildedRoseKataClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GildedRoseKataBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GildedRoseKataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
