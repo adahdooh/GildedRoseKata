@@ -4,7 +4,7 @@ Refactor Code Challenge :: Gilded Rose Kata
 
 ## Description
 
-This repository contains a comprehensive example about Refactoring code written in C#. In this challange, is for common refactor challenge named "Gilded Rose Kata".
+This repository contains a comprehensive example about Refactoring code written in C#. This challange, is for common refactor challenge named "Gilded Rose Kata".
 
 ## Getting Started
 
